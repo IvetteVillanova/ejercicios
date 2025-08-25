@@ -1,0 +1,201 @@
+﻿Fecha,Monto,Descripcion,ClienteID
+2025-01-01,390526,Transferencia recibida,45
+2025-01-01,453849,Transferencia recibida,58
+2025-01-05,-310984,Pago servicio,88
+2025-01-06,-257479,Pago servicio,92
+2025-01-07,-454861,Transferencia enviada,77
+2025-01-16,-574732,Compra,14
+2025-01-16,-384329,Compra,76
+2025-01-16,-708302,Transferencia enviada,81
+2025-01-18,-256609,Transferencia enviada,92
+2025-01-19,-456258,Retiro cajero,37
+2025-01-19,-387981,Pago servicio,56
+2025-01-21,-732987,Pago servicio,18
+2025-01-22,104857,Transferencia recibida,61
+2025-01-25,-783629,Compra,12
+2025-01-26,-367818,Pago servicio,30
+2025-01-26,-124095,Pago servicio,60
+2025-01-30,-333404,Pago servicio,82
+2025-02-05,-171408,Transferencia enviada,19
+2025-02-06,-300105,Retiro cajero,41
+2025-02-08,207539,Transferencia recibida,57
+2025-02-09,-515919,Compra,12
+2025-02-09,-390860,Pago servicio,34
+2025-02-12,597487,Transferencia recibida,57
+2025-02-12,698385,Transferencia recibida,100
+2025-02-13,-452454,Compra,40
+2025-02-14,-427928,Transferencia enviada,19
+2025-02-14,616504,Depósito,22
+2025-02-14,-25219,Pago servicio,26
+2025-02-14,-735613,Transferencia enviada,69
+2025-02-15,-707315,Retiro cajero,53
+2025-02-15,-354099,Transferencia enviada,61
+2025-02-15,-134062,Compra,79
+2025-02-18,-728485,Retiro cajero,52
+2025-02-19,-418972,Transferencia enviada,92
+2025-02-23,700871,Depósito,83
+2025-02-24,227936,Transferencia recibida,24
+2025-02-25,-363247,Retiro cajero,33
+2025-02-26,677396,Depósito,12
+2025-02-28,429106,Transferencia recibida,11
+2025-02-28,-442736,Transferencia enviada,13
+2025-02-28,-265727,Retiro cajero,46
+2025-02-28,-387605,Pago servicio,88
+2025-03-01,-554050,Pago servicio,48
+2025-03-01,-18421,Retiro cajero,79
+2025-03-03,-408422,Transferencia enviada,51
+2025-03-07,-65142,Retiro cajero,41
+2025-03-08,-61752,Transferencia enviada,47
+2025-03-08,-575596,Transferencia enviada,97
+2025-03-09,-119134,Pago servicio,6
+2025-03-10,352347,Depósito,55
+2025-03-10,-481305,Compra,71
+2025-03-11,797129,Depósito,41
+2025-03-11,-323252,Retiro cajero,70
+2025-03-12,243332,Transferencia recibida,89
+2025-03-12,-6089,Pago servicio,93
+2025-03-13,-362476,Compra,4
+2025-03-14,-444393,Retiro cajero,81
+2025-03-15,-13547,Pago servicio,73
+2025-03-16,-146167,Retiro cajero,45
+2025-03-17,291368,Depósito,75
+2025-03-17,-210806,Retiro cajero,99
+2025-03-20,-298383,Transferencia enviada,89
+2025-03-21,-588427,Pago servicio,7
+2025-03-21,-197575,Compra,77
+2025-03-22,-139670,Pago servicio,91
+2025-03-24,-781930,Retiro cajero,20
+2025-03-25,-782673,Transferencia enviada,31
+2025-03-27,457631,Transferencia recibida,71
+2025-03-28,536907,Depósito,27
+2025-03-28,-276153,Retiro cajero,30
+2025-03-28,-244569,Transferencia enviada,33
+2025-03-29,-412729,Retiro cajero,8
+2025-03-30,-771381,Compra,66
+2025-04-01,-643948,Retiro cajero,65
+2025-04-02,-551813,Retiro cajero,19
+2025-04-02,-236787,Transferencia enviada,59
+2025-04-03,-280769,Compra,71
+2025-04-05,-501854,Pago servicio,79
+2025-04-06,415946,Transferencia recibida,68
+2025-04-06,-567136,Pago servicio,87
+2025-04-08,-72099,Retiro cajero,73
+2025-04-10,456074,Depósito,45
+2025-04-11,798313,Depósito,78
+2025-04-14,-725487,Retiro cajero,66
+2025-04-16,-76874,Pago servicio,36
+2025-04-18,-623797,Retiro cajero,76
+2025-04-20,252443,Depósito,87
+2025-04-20,-473371,Retiro cajero,97
+2025-04-23,197147,Transferencia recibida,96
+2025-04-24,424808,Depósito,82
+2025-04-25,329288,Transferencia recibida,57
+2025-04-27,-720532,Pago servicio,32
+2025-04-27,-520067,Pago servicio,71
+2025-04-28,-343258,Transferencia enviada,94
+2025-04-29,-148947,Pago servicio,32
+2025-04-29,-553496,Transferencia enviada,64
+2025-04-30,-112185,Pago servicio,19
+2025-04-30,-280227,Retiro cajero,75
+2025-04-30,-544665,Retiro cajero,75
+2025-05-01,3442,Depósito,7
+2025-05-01,-546506,Compra,65
+2025-05-03,-9858,Compra,3
+2025-05-03,-738579,Retiro cajero,61
+2025-05-04,-37566,Retiro cajero,45
+2025-05-05,82617,Transferencia recibida,56
+2025-05-05,-278091,Transferencia enviada,61
+2025-05-08,-390332,Compra,25
+2025-05-11,514493,Depósito,32
+2025-05-12,-246315,Retiro cajero,82
+2025-05-12,-797416,Transferencia enviada,96
+2025-05-15,-381802,Transferencia enviada,81
+2025-05-18,-406686,Retiro cajero,1
+2025-05-18,-455291,Pago servicio,33
+2025-05-19,-98111,Compra,7
+2025-05-20,-334593,Compra,70
+2025-05-21,-162808,Pago servicio,32
+2025-05-21,-747133,Pago servicio,61
+2025-05-22,740957,Transferencia recibida,18
+2025-05-23,-410307,Transferencia enviada,81
+2025-05-26,-371085,Retiro cajero,79
+2025-05-26,-100710,Transferencia enviada,98
+2025-05-28,-693878,Retiro cajero,12
+2025-05-28,724369,Depósito,94
+2025-05-30,-750725,Transferencia enviada,10
+2025-05-30,-230072,Transferencia enviada,39
+2025-06-02,556028,Transferencia recibida,11
+2025-06-02,-416115,Transferencia enviada,16
+2025-06-07,-770385,Pago servicio,76
+2025-06-08,246991,Depósito,65
+2025-06-09,-719167,Transferencia enviada,8
+2025-06-09,-654860,Pago servicio,54
+2025-06-09,-384350,Retiro cajero,92
+2025-06-11,532724,Depósito,24
+2025-06-11,471585,Depósito,63
+2025-06-12,-24919,Compra,43
+2025-06-12,-519188,Retiro cajero,97
+2025-06-13,-612038,Compra,85
+2025-06-14,-525131,Compra,98
+2025-06-15,467332,Transferencia recibida,46
+2025-06-16,-449418,Pago servicio,34
+2025-06-16,382247,Depósito,96
+2025-06-17,424013,Transferencia recibida,3
+2025-06-18,-389183,Compra,21
+2025-06-18,155612,Depósito,36
+2025-06-18,517857,Depósito,86
+2025-06-21,-562066,Retiro cajero,39
+2025-06-24,437700,Transferencia recibida,53
+2025-06-25,464200,Depósito,14
+2025-06-27,-255060,Compra,34
+2025-06-27,-5545,Transferencia enviada,63
+2025-06-28,-571212,Transferencia enviada,94
+2025-07-01,54296,Transferencia recibida,72
+2025-07-01,324926,Transferencia recibida,77
+2025-07-02,198917,Depósito,29
+2025-07-04,-15286,Pago servicio,83
+2025-07-06,-107427,Pago servicio,44
+2025-07-07,113037,Depósito,48
+2025-07-10,-28547,Retiro cajero,37
+2025-07-12,-546006,Transferencia enviada,26
+2025-07-12,-107681,Transferencia enviada,70
+2025-07-12,746021,Transferencia recibida,73
+2025-07-13,-362549,Compra,75
+2025-07-16,-668436,Retiro cajero,30
+2025-07-21,247655,Transferencia recibida,18
+2025-07-23,311130,Depósito,88
+2025-07-24,-130224,Pago servicio,59
+2025-07-25,-114385,Transferencia enviada,65
+2025-07-26,-523360,Compra,24
+2025-07-30,748137,Transferencia recibida,81
+2025-08-01,-450692,Pago servicio,11
+2025-08-01,-76538,Compra,16
+2025-08-01,-675130,Retiro cajero,68
+2025-08-03,328712,Transferencia recibida,22
+2025-08-04,-683564,Pago servicio,8
+2025-08-04,556750,Transferencia recibida,44
+2025-08-04,-795567,Retiro cajero,68
+2025-08-05,-447275,Retiro cajero,68
+2025-08-06,-7984,Transferencia enviada,29
+2025-08-07,-241520,Transferencia enviada,85
+2025-08-08,-508311,Transferencia enviada,10
+2025-08-08,-538823,Transferencia enviada,88
+2025-08-09,-396331,Compra,28
+2025-08-09,580988,Transferencia recibida,74
+2025-08-10,-425852,Compra,28
+2025-08-11,-23821,Transferencia enviada,80
+2025-08-12,520214,Transferencia recibida,43
+2025-08-12,-292722,Transferencia enviada,66
+2025-08-12,-623381,Pago servicio,98
+2025-08-14,249776,Depósito,1
+2025-08-14,-15204,Compra,11
+2025-08-17,737145,Transferencia recibida,41
+2025-08-19,464735,Depósito,29
+2025-08-20,-793814,Transferencia enviada,31
+2025-08-20,-690032,Transferencia enviada,55
+2025-08-21,-662145,Retiro cajero,34
+2025-08-22,-554316,Transferencia enviada,37
+2025-08-22,81827,Depósito,93
+2025-08-23,200811,Depósito,27
+2025-08-23,-529670,Compra,100
+2025-08-24,12173,Depósito,78
